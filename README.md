@@ -1,6 +1,7 @@
 ### ParkJooYoung
 
 ## 
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=100&section=header&text=%20JooYoung%20�&fontSize=25&animation=twinkling)
 <!--
 **jooyoung0525/jooyoung0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
