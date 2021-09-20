@@ -32,8 +32,8 @@
 <img align="left" alt="Flutter" src="https://user-images.githubusercontent.com/29946480/133994563-30ced696-e540-4881-b6e8-dce9c9c184ac.png"  width=50 />
 <img align="left" alt="Java" src="https://user-images.githubusercontent.com/29462979/125167142-05b80c00-e1da-11eb-9883-860ef1562d1a.png" />
 <img align="left" alt="Spring" src="https://user-images.githubusercontent.com/29462979/125167109-def9d580-e1d9-11eb-95b7-7974571e5250.png" />
-<img align="left" alt="Mybatis" src="https://user-images.githubusercontent.com/29462979/125167109-def9d580-e1d9-11eb-95b7-7974571e5250.png" />
-<img align="left" alt="Oracle" src="https://user-images.githubusercontent.com/29462979/125167109-def9d580-e1d9-11eb-95b7-7974571e5250.png" />
+<img align="left" alt="Mybatis" src="https://user-images.githubusercontent.com/29946480/133995264-c421a4f6-e31e-44a5-980f-12ebdd7f55db.png" width=50/>
+<img align="left" alt="Oracle" src="https://user-images.githubusercontent.com/29946480/133995261-f035012e-efde-472e-a08a-d05694a89514.png" width=50/>
 <img align="left" alt="github" src="https://user-images.githubusercontent.com/29462979/125167174-2b451580-e1da-11eb-8bfc-fbd5f9b3f86a.png" />
 
 
