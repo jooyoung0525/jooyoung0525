@@ -1,4 +1,5 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftinnia&count_bg=%23FFC000&title_bg=%239C9C9C&icon=furrynetwork.svg&icon_color=%23FFF9B5&title=VISIT&edge_flat=false"/></a>
+<br>
 ![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=100&section=header&text=%20JooYoung%&fontSize=25&animation=twinkling)
 
 ### 🌱 WORKING AT 
@@ -31,6 +32,8 @@
 <img align="left" alt="Flutter" src="https://user-images.githubusercontent.com/29946480/133994563-30ced696-e540-4881-b6e8-dce9c9c184ac.png"  width=50 />
 <img align="left" alt="Java" src="https://user-images.githubusercontent.com/29462979/125167142-05b80c00-e1da-11eb-9883-860ef1562d1a.png" />
 <img align="left" alt="Spring" src="https://user-images.githubusercontent.com/29462979/125167109-def9d580-e1d9-11eb-95b7-7974571e5250.png" />
+<img align="left" alt="Mybatis" src="https://user-images.githubusercontent.com/29462979/125167109-def9d580-e1d9-11eb-95b7-7974571e5250.png" />
+<img align="left" alt="Oracle" src="https://user-images.githubusercontent.com/29462979/125167109-def9d580-e1d9-11eb-95b7-7974571e5250.png" />
 <img align="left" alt="github" src="https://user-images.githubusercontent.com/29462979/125167174-2b451580-e1da-11eb-8bfc-fbd5f9b3f86a.png" />
 
 
