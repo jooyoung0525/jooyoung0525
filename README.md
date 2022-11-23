@@ -4,7 +4,8 @@
 
 ### 🌱 WORKING AT 
 
-- ### FnGuide (Mobile Developer, 2021~ )
+- ### Hyundai Autoever ( Android Mobile Developer, 2022.04 ~ )
+- **FnGuide ( Flutter Mobile Developer, 2021.03 ~ 2022.03 )**
 - **LG Electronic VS Intern ( Germany, 2019.04 ~ 2019.08 )**
 <br>
 
